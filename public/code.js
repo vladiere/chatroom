@@ -87,7 +87,6 @@
             
         }
 
-
         msgContainer.scrollTop = msgContainer.scrollHeight - msgContainer.clientHeight
     }
 })()
